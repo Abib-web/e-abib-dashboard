@@ -1,0 +1,87 @@
+.product-list {
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-list h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: 'Arial', sans-serif;
+  color: #343a40;
+}
+
+.product-list .btn {
+  margin-bottom: 20px;
+}
+
+.product-list table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.product-list th,
+.product-list td {
+  padding: 12px 15px;
+  border: 1px solid #dee2e6;
+  text-align: left;
+}
+
+.product-list th {
+  background-color: #007bff;
+  color: white;
+  font-weight: bold;
+}
+
+.product-list tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.product-list tr:hover {
+  background-color: #e9ecef;
+}
+
+.product-list img {
+  width: 50px;
+  height: auto;
+  border-radius: 5px;
+}
+
+.modal-header {
+  background-color: #007bff;
+  color: white;
+}
+
+.modal-footer .btn {
+  width: 100px;
+}
+
+.modal-footer .btn-primary {
+  background-color: #007bff;
+  border: none;
+}
+
+.modal-footer .btn-danger {
+  background-color: #dc3545;
+  border: none;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+}
+
+.modal-title {
+  font-family: 'Arial', sans-serif;
+}

@@ -1,0 +1,35 @@
+.brand-list {
+    padding: 20px;
+  }
+  
+  .brand-list h2 {
+    margin-bottom: 20px;
+  }
+  
+  .brand-list .table {
+    margin-top: 20px;
+  }
+  
+  .brand-list .btn {
+    margin-bottom: 20px;
+  }
+  /* BrandList.css */
+
+.brand-list {
+    padding: 20px;
+  }
+  
+  .brand-list h2 {
+    margin-bottom: 20px;
+  }
+  
+  .brand-list .table img {
+    width: 50px;
+    height: auto;
+    cursor: pointer;
+  }
+  
+  .brand-list .btn-info {
+    margin-right: 5px;
+  }
+  

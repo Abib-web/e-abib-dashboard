@@ -1,0 +1,75 @@
+.category-list {
+  padding: 20px;
+}
+
+.category-list h2 {
+  margin-bottom: 20px;
+}
+
+.category-list .table {
+  margin-top: 20px;
+}
+
+.category-list .table img {
+  width: 50px;
+  height: auto;
+  cursor: pointer;
+}
+
+.category-list .btn-info {
+  margin-right: 5px;
+}
+.category-list {
+  padding: 20px;
+}
+
+.category-list h2 {
+  margin-bottom: 20px;
+}
+
+.category-list .table {
+  margin-top: 20px;
+}
+
+.category-list .table img {
+  width: 50px;
+  height: auto;
+  cursor: pointer;
+}
+
+.category-list .btn-info {
+  margin-right: 5px;
+}
+
+.category-list .btn {
+  margin-bottom: 20px;
+}
+
+.category-list .modal-body {
+  padding: 20px;
+}
+
+.category-list .modal-body form .form-group {
+  margin-bottom: 15px;
+}
+
+.category-list .modal-footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.category-list .modal-footer .btn {
+  width: 100px;
+}
+
+.category-list .table th, .category-list .table td {
+  vertical-align: middle;
+}
+
+.category-list .table .btn {
+  margin-right: 5px;
+}
+
+.category-list .table .btn-danger {
+  margin-left: 5px;
+}
